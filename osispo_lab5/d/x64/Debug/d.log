@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\osispo_lab5\d\Source.cpp(20,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\osispo_lab5\d\Source.cpp(37,6): warning C4101: SingleObject: неиспользованная локальная переменная
+  d.vcxproj -> C:\Users\User\source\repos\osispo_lab5\x64\Debug\d.exe
